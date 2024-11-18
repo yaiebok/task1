@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2019", // или более новый, если это необходимо
+    "module": "ESNext", // Измените на ESNext или ES6
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "declaration": true
+  }
+}
